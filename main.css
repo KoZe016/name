@@ -21,7 +21,7 @@
 --font-display: var(--main-font);
 --font-code: var(--code-font);
 --focus-primary: var(var(--focus-color));
---main-color: #808080; /* Medium gray */
+--main-color: #000000; /* Black */
 --hover-color: #999999; /* Lighter gray */
 --success-color: #2e7d32; /* Green */
 --warning-color: #fff;
@@ -31,7 +31,7 @@
 --idle-color: #f9a825; /* Yellow */
 --dnd-color: #c62828; /* Red */
 --streaming-color: #7b1fa2; /* Purple */
---offline-color: #808080; /* Medium gray */
+--offline-color: #000000; /* Black */
 --background-shading-percent: 100%;
 --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
 --background-position: center;
